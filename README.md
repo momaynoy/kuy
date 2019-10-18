@@ -1,1 +1,3 @@
-ssssssssssss
+# ITF-Lab 2018
+## Author
+* ชื่อ-นามสกุล รหัสนักศึกษา
